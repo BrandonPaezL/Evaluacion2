@@ -232,3 +232,28 @@ p {
 
 
 }
+
+.map{
+    
+    padding-top: 20px;
+    background: #000000;
+    padding-bottom: 0;
+    border: 2px solid #9c27b0;
+    color: #7e1e1e;
+    background-color: #7e1e1e;
+
+
+}
+
+.takashi{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 63px;
+    background: #2c0631;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+
+
+}
